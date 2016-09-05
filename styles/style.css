@@ -1,0 +1,16 @@
+#mapa{
+	/*height: 600px;
+	border: 1px solid #AAA;*/
+	position: absolute;
+	left:0px;
+	top:0px;
+	width: 100%;
+	height: 100%;
+}
+
+#container{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 9999;
+}
