@@ -1,0 +1,17 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [56.130366, -106.346771]},
+        "properties": {"name": "Canada"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [18.220554, -63.068615]},
+        "properties": {"name": "Anguilla"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [36.204824, 138.252924]},
+        "properties": {"name": "Japan"}
+      },
+
+    ]
+}
